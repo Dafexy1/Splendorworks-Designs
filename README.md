@@ -1,5 +1,4 @@
-# Splendorworks-Designs
-An Interior Design Concept
+
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
@@ -52,7 +51,7 @@ An Interior Design Concept
 	<div class="row"
 	<div class="">
     <div class="col-md-4">
-        <img src="C:/Users/hp/Documents/Artboard 10.PNG" alt="logo" />
+        <img src="Artboard 10.PNG" alt="logo" />
     </div>
     <div class="col-md-8">
     </div>

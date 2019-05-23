@@ -52,7 +52,7 @@ An Interior Design Concept
 	<div class="row"
 	<div class="">
     <div class="col-md-4">
-        <img src="C:\Users\hp\Documents\Artboard 10.png" alt="logo" />
+        <img src="C:/Users/hp/Documents/Artboard 10.png" alt="logo" />
     </div>
     <div class="col-md-8">
     </div>
@@ -100,7 +100,7 @@ An Interior Design Concept
  ..</p>
       </div>
       <div class="col-md-5">
-      	<img src="C:\Users\hp\Documents\Artboard 02.jpg"
+      	<img src="C:/Users/hp/Documents/Artboard 02.jpg"
         <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 500x500"><title>Placeholder</title><rect fill="#eee" width="100%" height="100%"/><text fill="#aaa" dy=".3em" x="50%" y="50%"></text></svg>
       </div>
     </div>
@@ -115,7 +115,7 @@ An Interior Design Concept
 		Overall, most residential interior designers in can help change the interior of your home in a way that it is supposed to be. Usually, homes come in all sizes and shapes, so your home is unique. Therefore, hiring a professional designer will serve you greatly in getting a proper design according to the size and the shape of your home. This will not only allow you to design your home according to your taste, but you can do it affordably, too....</p>
       </div>
       <div class="col-md-5 order-md-1">
-	   <img src="C:\Users\hp\Documents\Artboard 009.jpg"
+	   <img src="C:/Users/hp/Documents/Artboard 009.jpg"
         <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 500x500"><title>Placeholder</title><rect fill="#eee" width="100%" height="100%"/><text fill="#aaa" dy=".3em" x="50%" y="50%">Kitchen Fittings</text></svg>
       </div>
     </div>
@@ -133,7 +133,7 @@ An Interior Design Concept
 </p>
       </div>
       <div class="col-md-5">
-      	<img src="C:\Users\hp\Documents\Artboard 010.jpg"
+      	<img src="C:/Users/hp/Documents/Artboard 010.jpg"
         <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 500x500"><title>Placeholder</title><rect fill="#eee" width="100%" height="100%"/><text fill="#aaa" dy=".3em" x="50%" y="50%">Tiles</text></svg>
       </div>
     </div>
